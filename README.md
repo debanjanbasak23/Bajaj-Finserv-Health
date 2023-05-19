@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/dixitsoham7/dixitsoham7.github.io/main/index.j
 JSON and store it in your code.
 2. Render the JSON on the screen with a visually appealing UI (mandatory). Try to display as many fields as
 possible.
-3. Implement a filter/search functionality for your page (good to do).
+3. Implement a filter/search functionality for your page (good to do).<br>
 a. Allow search by name. <br>
 b. Provide the ability to filter developers by their designation/skills.
 
