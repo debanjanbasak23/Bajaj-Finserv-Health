@@ -2,7 +2,7 @@
 Bajaj Health Frontend Challenge (Qualifier 1)
 (19th May 2023)
 
-Objective
+Objective: 
 To render data from JSON with appealing UI
 Logic
 
